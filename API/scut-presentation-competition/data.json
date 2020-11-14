@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "team": "TEAM #1",
+        "video": "https://vdn3.vzuu.com/SD/7e9b53e4-267c-11eb-b1d4-8a797736950a.mp4?disable_local_cache=1&bu=http-com&expiration=1605364182&auth_key=1605364182-0-0-8baee73632f979c4176b332696007c46&f=mp4&v=tx",
+        "th": "https://i.ibb.co/g9JWVNM/th1.png",
+        "members": ["Mohammad Fazlul Hoque", "Aisha Kuanysh", "Tino Westerhoff"],
+        "major": ["Automation Science and Engineering", "International Trade and Economics", "Business Chinese"],
+        "image": ["https://i.ibb.co/YcQNzRy/fazlul-t1.png", "https://i.ibb.co/FYvcX02/aisha-t1.png", "https://i.ibb.co/vPw32Jh/tino-t1.png"]
+
+    },
+    {
+        "id": 2,
+        "team": "TEAM #2",
+        "video": "https://vdn.vzuu.com/SD/185a6e88-267e-11eb-854f-26c957646538.mp4?disable_local_cache=1&bu=http-com&expiration=1605364872&auth_key=1605364872-0-0-23d049e1246accab55981fcd430d6eea&f=mp4&v=ali",
+        "th": "https://i.ibb.co/GR5BVKD/th2.png",
+        "members": ["HASSAN ABDIFATAH ALI", "MAHAMUD MD SHAKIB"],
+        "major": ["International Trade and Economics", "Computer Science and Technology"],
+        "image": ["https://i.ibb.co/0fkZLwb/ata-t2.jpg", "https://i.ibb.co/6thwzKx/shakib-t2.png"]
+    },
+    {
+        "id": 3,
+        "team": "TEAM #3",
+        "video": "https://vdn1.vzuu.com/SD/4bfd24c4-267e-11eb-8487-523a3e44b89c.mp4?disable_local_cache=1&bu=http-com&expiration=1605364980&auth_key=1605364980-0-0-0ac76f94cb8da49a3eca1e9b84321fe0&f=mp4&v=hw",
+        "th": "https://i.ibb.co/3Fgddtc/th3.png",
+        "members": ["Tehreena Tahir", "Muhammad Adeel", "uzma"],
+        "major": ["Food Science & Engineering", "Food Science & Engineering", "Food Science & Engineering"],
+        "image": ["https://i.ibb.co/RcvRdyn/Tahir-t3.jpg", "https://i.ibb.co/k6Vzbb4/adeel-t3.jpg", "https://i.ibb.co/WBRX6Wm/uzma-t3.jpg"]
+    },
+    {
+        "id": 4,
+        "team": "TEAM #4",
+        "video": "https://vdn1.vzuu.com/HD/8891491a-267e-11eb-9d1a-2680c728e045.mp4?disable_local_cache=1&bu=http-com&expiration=1605365062&auth_key=1605365062-0-0-0354110d6c253b41aacbef7e92c97af3&f=mp4&v=hw",
+        "th": "https://i.ibb.co/cQvpghP/th4.png",
+        "members": ["LI INESSA", "KIRILIUK ALINA"],
+        "major": ["环境设计", "环境设计"],
+        "image": ["", "https://i.ibb.co/FzgbC5q/Alina-t4.png"]
+    },
+    {
+        "id": 5,
+        "team": "TEAM #5",
+        "video": "https://vdn3.vzuu.com/HD/a3e000da-267e-11eb-ae12-2680c728e045.mp4?disable_local_cache=1&bu=http-com&expiration=1605365145&auth_key=1605365145-0-0-794253bca75474f721ce1eed8aed5a8a&f=mp4&v=tx",
+        "th": "https://i.ibb.co/8Py2jJY/th5.png",
+        "memebers": ["Muhammad Imran", "Talha Riaz", "Ibrahima Diallo"],
+        "major": ["Food Science & Engineering", "Food Science & Engineering", "Chinese Language"],
+        "image": ["https://i.ibb.co/NNjRJLV/imran-t5.jpg", "https://i.ibb.co/Hrk3Ztk/telha-t5.jpg", "https://i.ibb.co/KxKRn8k/diallo-t5.jpg"]
+    },
+    {
+        "id": 6,
+        "team": "TEAM #6",
+        "video": "https://vdn.vzuu.com/HD/bbc0a8ee-267e-11eb-bda7-aa5a3e6409b8.mp4?disable_local_cache=1&bu=http-com&expiration=1605365327&auth_key=1605365327-0-0-1f76571ca2073a65a8922598df127e0f&f=mp4&v=ali",
+        "th": "https://i.ibb.co/vwtXtnJ/th6.png",
+        "memebers": ["NETALIYEVA DANA"],
+        "major": ["汉语国际教育"],
+        "image": ["https://i.ibb.co/tByZppB/dana-t6.jpg"]
+    }
+]
